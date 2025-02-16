@@ -1,2 +1,2 @@
 # Airflow
-Dags and setup airflow
+DAGs and setup Airflow
